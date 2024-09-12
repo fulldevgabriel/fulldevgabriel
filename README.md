@@ -4,7 +4,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fulldevgabriel/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/376769904168140811)
 
-![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=s4veiro&show_icons=true&theme=radical)
+![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=fulldevgabriel&show_icons=true&theme=radical)
 
 ### Tecnologias que mais uso atualmente 
 <hr>
